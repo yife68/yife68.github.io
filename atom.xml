@@ -3,11 +3,11 @@
   <title>爱吃肉的猫</title>
   
   <subtitle>有肉有猫有生活.</subtitle>
-  <link href="https://meuicat.com/atom.xml" rel="self"/>
+  <link href="https://blog.meuicat.com/atom.xml" rel="self"/>
   
-  <link href="https://meuicat.com/"/>
+  <link href="https://blog.meuicat.com/"/>
   <updated>2022-07-27T07:53:31.618Z</updated>
-  <id>https://meuicat.com/</id>
+  <id>https://blog.meuicat.com/</id>
   
   <author>
     <name>MeuiCat</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>一键获取网页信息技巧</title>
-    <link href="https://meuicat.com/blog/32/"/>
-    <id>https://meuicat.com/blog/32/</id>
+    <link href="https://blog.meuicat.com/blog/32/"/>
+    <id>https://blog.meuicat.com/blog/32/</id>
     <published>2022-07-27T06:27:15.000Z</published>
     <updated>2022-07-27T07:53:31.618Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="实用代码" scheme="https://meuicat.com/categories/%E5%AE%9E%E7%94%A8%E4%BB%A3%E7%A0%81/"/>
+    <category term="实用代码" scheme="https://blog.meuicat.com/categories/%E5%AE%9E%E7%94%A8%E4%BB%A3%E7%A0%81/"/>
     
     
-    <category term="命令" scheme="https://meuicat.com/tags/%E5%91%BD%E4%BB%A4/"/>
+    <category term="命令" scheme="https://blog.meuicat.com/tags/%E5%91%BD%E4%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>iOS修改 - 万铲铲的致富之路</title>
-    <link href="https://meuicat.com/blog/31/"/>
-    <id>https://meuicat.com/blog/31/</id>
+    <link href="https://blog.meuicat.com/blog/31/"/>
+    <id>https://blog.meuicat.com/blog/31/</id>
     <published>2022-07-11T17:33:04.000Z</published>
     <updated>2022-07-27T07:54:25.950Z</updated>
     
@@ -51,19 +51,19 @@
     
     
     
-    <category term="iOS游戏" scheme="https://meuicat.com/categories/iOS%E6%B8%B8%E6%88%8F/"/>
+    <category term="iOS游戏" scheme="https://blog.meuicat.com/categories/iOS%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="iOS14" scheme="https://meuicat.com/tags/iOS14/"/>
+    <category term="iOS14" scheme="https://blog.meuicat.com/tags/iOS14/"/>
     
-    <category term="越狱" scheme="https://meuicat.com/tags/%E8%B6%8A%E7%8B%B1/"/>
+    <category term="越狱" scheme="https://blog.meuicat.com/tags/%E8%B6%8A%E7%8B%B1/"/>
     
   </entry>
   
   <entry>
     <title>Markdown 基础教程</title>
-    <link href="https://meuicat.com/blog/30/"/>
-    <id>https://meuicat.com/blog/30/</id>
+    <link href="https://blog.meuicat.com/blog/30/"/>
+    <id>https://blog.meuicat.com/blog/30/</id>
     <published>2022-07-09T09:33:25.000Z</published>
     <updated>2022-07-11T18:35:59.406Z</updated>
     
@@ -74,19 +74,19 @@
     
     
     
-    <category term="Hexo" scheme="https://meuicat.com/categories/Hexo/"/>
+    <category term="Hexo" scheme="https://blog.meuicat.com/categories/Hexo/"/>
     
     
-    <category term="Butterfly主题" scheme="https://meuicat.com/tags/Butterfly%E4%B8%BB%E9%A2%98/"/>
+    <category term="Butterfly主题" scheme="https://blog.meuicat.com/tags/Butterfly%E4%B8%BB%E9%A2%98/"/>
     
-    <category term="Markdown" scheme="https://meuicat.com/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://blog.meuicat.com/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>从你的全世界路过</title>
-    <link href="https://meuicat.com/blog/29/"/>
-    <id>https://meuicat.com/blog/29/</id>
+    <link href="https://blog.meuicat.com/blog/29/"/>
+    <id>https://blog.meuicat.com/blog/29/</id>
     <published>2022-06-14T04:57:28.000Z</published>
     <updated>2022-06-14T08:01:44.679Z</updated>
     
@@ -97,17 +97,17 @@
     
     
     
-    <category term="生活随笔" scheme="https://meuicat.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    <category term="生活随笔" scheme="https://blog.meuicat.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="观后言" scheme="https://meuicat.com/tags/%E8%A7%82%E5%90%8E%E8%A8%80/"/>
+    <category term="观后言" scheme="https://blog.meuicat.com/tags/%E8%A7%82%E5%90%8E%E8%A8%80/"/>
     
   </entry>
   
   <entry>
     <title>小米摄像头！避！雷！</title>
-    <link href="https://meuicat.com/blog/28/"/>
-    <id>https://meuicat.com/blog/28/</id>
+    <link href="https://blog.meuicat.com/blog/28/"/>
+    <id>https://blog.meuicat.com/blog/28/</id>
     <published>2022-05-30T02:19:46.000Z</published>
     <updated>2022-05-30T04:07:50.697Z</updated>
     
@@ -118,17 +118,17 @@
     
     
     
-    <category term="小米" scheme="https://meuicat.com/categories/%E5%B0%8F%E7%B1%B3/"/>
+    <category term="小米" scheme="https://blog.meuicat.com/categories/%E5%B0%8F%E7%B1%B3/"/>
     
     
-    <category term="摄像头" scheme="https://meuicat.com/tags/%E6%91%84%E5%83%8F%E5%A4%B4/"/>
+    <category term="摄像头" scheme="https://blog.meuicat.com/tags/%E6%91%84%E5%83%8F%E5%A4%B4/"/>
     
   </entry>
   
   <entry>
     <title>VuePress 搭建教程</title>
-    <link href="https://meuicat.com/blog/27/"/>
-    <id>https://meuicat.com/blog/27/</id>
+    <link href="https://blog.meuicat.com/blog/27/"/>
+    <id>https://blog.meuicat.com/blog/27/</id>
     <published>2022-05-19T08:01:34.000Z</published>
     <updated>2022-05-19T08:07:12.093Z</updated>
     
@@ -139,19 +139,19 @@
     
     
     
-    <category term="VuePress" scheme="https://meuicat.com/categories/VuePress/"/>
+    <category term="VuePress" scheme="https://blog.meuicat.com/categories/VuePress/"/>
     
     
-    <category term="GitHub" scheme="https://meuicat.com/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://blog.meuicat.com/tags/GitHub/"/>
     
-    <category term="Vue" scheme="https://meuicat.com/tags/Vue/"/>
+    <category term="Vue" scheme="https://blog.meuicat.com/tags/Vue/"/>
     
   </entry>
   
   <entry>
     <title>Hexo跳过指定文件渲染</title>
-    <link href="https://meuicat.com/blog/26/"/>
-    <id>https://meuicat.com/blog/26/</id>
+    <link href="https://blog.meuicat.com/blog/26/"/>
+    <id>https://blog.meuicat.com/blog/26/</id>
     <published>2022-05-06T03:57:55.000Z</published>
     <updated>2022-05-06T04:57:12.467Z</updated>
     
@@ -162,19 +162,19 @@
     
     
     
-    <category term="Hexo" scheme="https://meuicat.com/categories/Hexo/"/>
+    <category term="Hexo" scheme="https://blog.meuicat.com/categories/Hexo/"/>
     
     
-    <category term="跳过渲染" scheme="https://meuicat.com/tags/%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93/"/>
+    <category term="跳过渲染" scheme="https://blog.meuicat.com/tags/%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93/"/>
     
-    <category term="HTML" scheme="https://meuicat.com/tags/HTML/"/>
+    <category term="HTML" scheme="https://blog.meuicat.com/tags/HTML/"/>
     
   </entry>
   
   <entry>
     <title>百度贴吧每日自动签到</title>
-    <link href="https://meuicat.com/blog/25/"/>
-    <id>https://meuicat.com/blog/25/</id>
+    <link href="https://blog.meuicat.com/blog/25/"/>
+    <id>https://blog.meuicat.com/blog/25/</id>
     <published>2022-05-04T06:44:23.000Z</published>
     <updated>2022-05-04T08:15:31.672Z</updated>
     
@@ -185,23 +185,23 @@
     
     
     
-    <category term="GitHub" scheme="https://meuicat.com/categories/GitHub/"/>
+    <category term="GitHub" scheme="https://blog.meuicat.com/categories/GitHub/"/>
     
     
-    <category term="GitHub" scheme="https://meuicat.com/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://blog.meuicat.com/tags/GitHub/"/>
     
-    <category term="源码" scheme="https://meuicat.com/tags/%E6%BA%90%E7%A0%81/"/>
+    <category term="源码" scheme="https://blog.meuicat.com/tags/%E6%BA%90%E7%A0%81/"/>
     
-    <category term="百度贴吧" scheme="https://meuicat.com/tags/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7/"/>
+    <category term="自动签到" scheme="https://blog.meuicat.com/tags/%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0/"/>
     
-    <category term="自动签到" scheme="https://meuicat.com/tags/%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0/"/>
+    <category term="百度贴吧" scheme="https://blog.meuicat.com/tags/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7/"/>
     
   </entry>
   
   <entry>
     <title>Hexo 博客搭建教程</title>
-    <link href="https://meuicat.com/blog/24/"/>
-    <id>https://meuicat.com/blog/24/</id>
+    <link href="https://blog.meuicat.com/blog/24/"/>
+    <id>https://blog.meuicat.com/blog/24/</id>
     <published>2022-04-29T17:28:45.000Z</published>
     <updated>2022-04-30T03:43:01.973Z</updated>
     
@@ -212,42 +212,42 @@
     
     
     
-    <category term="Hexo" scheme="https://meuicat.com/categories/Hexo/"/>
+    <category term="Hexo" scheme="https://blog.meuicat.com/categories/Hexo/"/>
     
     
-    <category term="GitHub" scheme="https://meuicat.com/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://blog.meuicat.com/tags/GitHub/"/>
     
-    <category term="Butterfly主题" scheme="https://meuicat.com/tags/Butterfly%E4%B8%BB%E9%A2%98/"/>
+    <category term="Butterfly主题" scheme="https://blog.meuicat.com/tags/Butterfly%E4%B8%BB%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Desktop提交报错</title>
-    <link href="https://meuicat.com/blog/23/"/>
-    <id>https://meuicat.com/blog/23/</id>
+    <link href="https://blog.meuicat.com/blog/23/"/>
+    <id>https://blog.meuicat.com/blog/23/</id>
     <published>2022-04-27T05:50:55.000Z</published>
     <updated>2022-04-27T09:14:30.286Z</updated>
     
-    <content type="html"><![CDATA[<!-- title  【必需】页面标题date  【必需】页面创建日期cover  【必须】文章封面sticky  【可选】首页文章置顶(默认 true)tags  【可选】标签categories  【可选】分类description  【可选】页面描述keywords  【可选】页面关键字comments  【可选】显示页面评论模块(默认 true)top_img  【可选】页面顶部图片mathjax  【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)katex  【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)aside  【可选】显示侧边栏 (默认 true)aplayer  【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置highlight_shrink  【可选】配置代码框是否展开(true/false)(默认为设置中highlight_shrink的配置) copyright  【可选】复制时的版权信息password: --><h1 id="报错案例"><a href="#报错案例" class="headerlink" title="报错案例"></a>报错案例</h1><p><img src="https://yife68.gitee.io/icat-pic-2022/04/27/2.png"><br><br></p><h1 id="解决步骤"><a href="#解决步骤" class="headerlink" title="解决步骤"></a>解决步骤</h1><ul><li>菜单栏 - <code><strong>Repository</strong>(仓库)</code> - <code><strong>Repository settings</strong>(仓库设置)</code></li></ul><p><img src="https://yife68.gitee.io/icat-pic-2022/04/27/3.png"></p><br><ul><li>修改 <code><strong><a href="https://github.com/">https://github.com/</a></strong></code> 为 <code><strong><a href="mailto:&#103;&#105;&#x74;&#64;&#103;&#x69;&#x74;&#104;&#x75;&#98;&#x2e;&#x63;&#111;&#109;">&#103;&#105;&#x74;&#64;&#103;&#x69;&#x74;&#104;&#x75;&#98;&#x2e;&#x63;&#111;&#109;</a>:</strong></code> 保存即可<br></li></ul><p><img src="https://yife68.gitee.io/icat-pic-2022/04/27/4.png"><br><img src="https://yife68.gitee.io/icat-pic-2022/04/27/5.png"></p><br><ul><li>当然了，实在不知道怎么改，就在GitHub项目里复制<code><strong>SSH</strong></code>链接即可<br></li></ul><p><img src="https://yife68.gitee.io/icat-pic-2022/04/27/6.png"></p>]]></content>
+    <content type="html"><![CDATA[<!-- title  【必需】页面标题date  【必需】页面创建日期cover  【必须】文章封面sticky  【可选】首页文章置顶(默认 true)tags  【可选】标签categories  【可选】分类description  【可选】页面描述keywords  【可选】页面关键字comments  【可选】显示页面评论模块(默认 true)top_img  【可选】页面顶部图片mathjax  【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)katex  【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)aside  【可选】显示侧边栏 (默认 true)aplayer  【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置highlight_shrink  【可选】配置代码框是否展开(true/false)(默认为设置中highlight_shrink的配置) copyright  【可选】复制时的版权信息password: --><h1 id="报错案例"><a href="#报错案例" class="headerlink" title="报错案例"></a>报错案例</h1><p><img src="https://yife68.gitee.io/icat-pic-2022/04/27/2.png"><br><br></p><h1 id="解决步骤"><a href="#解决步骤" class="headerlink" title="解决步骤"></a>解决步骤</h1><ul><li>菜单栏 - <code><strong>Repository</strong>(仓库)</code> - <code><strong>Repository settings</strong>(仓库设置)</code></li></ul><p><img src="https://yife68.gitee.io/icat-pic-2022/04/27/3.png"></p><br><ul><li>修改 <code><strong><a href="https://github.com/">https://github.com/</a></strong></code> 为 <code><strong><a href="mailto:&#x67;&#x69;&#116;&#64;&#103;&#x69;&#116;&#x68;&#117;&#x62;&#x2e;&#x63;&#x6f;&#x6d;">&#x67;&#x69;&#116;&#64;&#103;&#x69;&#116;&#x68;&#117;&#x62;&#x2e;&#x63;&#x6f;&#x6d;</a>:</strong></code> 保存即可<br></li></ul><p><img src="https://yife68.gitee.io/icat-pic-2022/04/27/4.png"><br><img src="https://yife68.gitee.io/icat-pic-2022/04/27/5.png"></p><br><ul><li>当然了，实在不知道怎么改，就在GitHub项目里复制<code><strong>SSH</strong></code>链接即可<br></li></ul><p><img src="https://yife68.gitee.io/icat-pic-2022/04/27/6.png"></p>]]></content>
     
     
     <summary type="html">“fatal：unable to access ‘https://github.com/xxx/xxx.git”</summary>
     
     
     
-    <category term="GitHub" scheme="https://meuicat.com/categories/GitHub/"/>
+    <category term="GitHub" scheme="https://blog.meuicat.com/categories/GitHub/"/>
     
     
-    <category term="GitHub Desktop" scheme="https://meuicat.com/tags/GitHub-Desktop/"/>
+    <category term="GitHub Desktop" scheme="https://blog.meuicat.com/tags/GitHub-Desktop/"/>
     
-    <category term="报错" scheme="https://meuicat.com/tags/%E6%8A%A5%E9%94%99/"/>
+    <category term="报错" scheme="https://blog.meuicat.com/tags/%E6%8A%A5%E9%94%99/"/>
     
   </entry>
   
   <entry>
     <title>快速批量处理重命名</title>
-    <link href="https://meuicat.com/blog/22/"/>
-    <id>https://meuicat.com/blog/22/</id>
+    <link href="https://blog.meuicat.com/blog/22/"/>
+    <id>https://blog.meuicat.com/blog/22/</id>
     <published>2022-04-22T08:22:05.000Z</published>
     <updated>2022-04-22T13:42:42.097Z</updated>
     
@@ -258,19 +258,19 @@
     
     
     
-    <category term="Windows" scheme="https://meuicat.com/categories/Windows/"/>
+    <category term="Windows" scheme="https://blog.meuicat.com/categories/Windows/"/>
     
     
-    <category term="Win10" scheme="https://meuicat.com/tags/Win10/"/>
+    <category term="Win10" scheme="https://blog.meuicat.com/tags/Win10/"/>
     
-    <category term="命令" scheme="https://meuicat.com/tags/%E5%91%BD%E4%BB%A4/"/>
+    <category term="命令" scheme="https://blog.meuicat.com/tags/%E5%91%BD%E4%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>Git连接仓库常用命令</title>
-    <link href="https://meuicat.com/blog/21/"/>
-    <id>https://meuicat.com/blog/21/</id>
+    <link href="https://blog.meuicat.com/blog/21/"/>
+    <id>https://blog.meuicat.com/blog/21/</id>
     <published>2022-04-22T05:21:45.000Z</published>
     <updated>2022-04-22T13:41:06.424Z</updated>
     
@@ -281,17 +281,17 @@
     
     
     
-    <category term="GitHub" scheme="https://meuicat.com/categories/GitHub/"/>
+    <category term="GitHub" scheme="https://blog.meuicat.com/categories/GitHub/"/>
     
     
-    <category term="命令" scheme="https://meuicat.com/tags/%E5%91%BD%E4%BB%A4/"/>
+    <category term="命令" scheme="https://blog.meuicat.com/tags/%E5%91%BD%E4%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu处理deb命令</title>
-    <link href="https://meuicat.com/blog/20/"/>
-    <id>https://meuicat.com/blog/20/</id>
+    <link href="https://blog.meuicat.com/blog/20/"/>
+    <id>https://blog.meuicat.com/blog/20/</id>
     <published>2022-04-21T15:30:11.000Z</published>
     <updated>2022-04-22T13:33:57.240Z</updated>
     
@@ -302,17 +302,17 @@
     
     
     
-    <category term="Ubuntu" scheme="https://meuicat.com/categories/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://blog.meuicat.com/categories/Ubuntu/"/>
     
     
-    <category term="命令" scheme="https://meuicat.com/tags/%E5%91%BD%E4%BB%A4/"/>
+    <category term="命令" scheme="https://blog.meuicat.com/tags/%E5%91%BD%E4%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>掘金自动签到并挖矿</title>
-    <link href="https://meuicat.com/blog/19/"/>
-    <id>https://meuicat.com/blog/19/</id>
+    <link href="https://blog.meuicat.com/blog/19/"/>
+    <id>https://blog.meuicat.com/blog/19/</id>
     <published>2022-04-21T14:52:51.000Z</published>
     <updated>2022-04-22T13:30:53.287Z</updated>
     
@@ -323,23 +323,23 @@
     
     
     
-    <category term="GitHub" scheme="https://meuicat.com/categories/GitHub/"/>
+    <category term="GitHub" scheme="https://blog.meuicat.com/categories/GitHub/"/>
     
     
-    <category term="GitHub" scheme="https://meuicat.com/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://blog.meuicat.com/tags/GitHub/"/>
     
-    <category term="源码" scheme="https://meuicat.com/tags/%E6%BA%90%E7%A0%81/"/>
+    <category term="源码" scheme="https://blog.meuicat.com/tags/%E6%BA%90%E7%A0%81/"/>
     
-    <category term="自动签到" scheme="https://meuicat.com/tags/%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0/"/>
+    <category term="稀土掘金" scheme="https://blog.meuicat.com/tags/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91/"/>
     
-    <category term="稀土掘金" scheme="https://meuicat.com/tags/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91/"/>
+    <category term="自动签到" scheme="https://blog.meuicat.com/tags/%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0/"/>
     
   </entry>
   
   <entry>
     <title>https &amp; http都是些什么？</title>
-    <link href="https://meuicat.com/blog/18/"/>
-    <id>https://meuicat.com/blog/18/</id>
+    <link href="https://blog.meuicat.com/blog/18/"/>
+    <id>https://blog.meuicat.com/blog/18/</id>
     <published>2022-04-20T09:08:56.000Z</published>
     <updated>2022-04-22T13:29:17.160Z</updated>
     
@@ -350,21 +350,21 @@
     
     
     
-    <category term="网站" scheme="https://meuicat.com/categories/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="https://blog.meuicat.com/categories/%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="封の唠叨" scheme="https://meuicat.com/tags/%E5%B0%81%E3%81%AE%E5%94%A0%E5%8F%A8/"/>
+    <category term="封の唠叨" scheme="https://blog.meuicat.com/tags/%E5%B0%81%E3%81%AE%E5%94%A0%E5%8F%A8/"/>
     
-    <category term="状态码" scheme="https://meuicat.com/tags/%E7%8A%B6%E6%80%81%E7%A0%81/"/>
+    <category term="状态码" scheme="https://blog.meuicat.com/tags/%E7%8A%B6%E6%80%81%E7%A0%81/"/>
     
-    <category term="https" scheme="https://meuicat.com/tags/https/"/>
+    <category term="https" scheme="https://blog.meuicat.com/tags/https/"/>
     
   </entry>
   
   <entry>
     <title>一个简洁的橙色调个人简介</title>
-    <link href="https://meuicat.com/blog/17/"/>
-    <id>https://meuicat.com/blog/17/</id>
+    <link href="https://blog.meuicat.com/blog/17/"/>
+    <id>https://blog.meuicat.com/blog/17/</id>
     <published>2022-04-20T02:34:17.000Z</published>
     <updated>2022-04-22T13:26:28.828Z</updated>
     
@@ -375,19 +375,19 @@
     
     
     
-    <category term="HTML" scheme="https://meuicat.com/categories/HTML/"/>
+    <category term="HTML" scheme="https://blog.meuicat.com/categories/HTML/"/>
     
     
-    <category term="源码" scheme="https://meuicat.com/tags/%E6%BA%90%E7%A0%81/"/>
+    <category term="源码" scheme="https://blog.meuicat.com/tags/%E6%BA%90%E7%A0%81/"/>
     
-    <category term="简介" scheme="https://meuicat.com/tags/%E7%AE%80%E4%BB%8B/"/>
+    <category term="简介" scheme="https://blog.meuicat.com/tags/%E7%AE%80%E4%BB%8B/"/>
     
   </entry>
   
   <entry>
     <title>我的猫以前也是流浪猫</title>
-    <link href="https://meuicat.com/blog/16/"/>
-    <id>https://meuicat.com/blog/16/</id>
+    <link href="https://blog.meuicat.com/blog/16/"/>
+    <id>https://blog.meuicat.com/blog/16/</id>
     <published>2022-04-20T01:31:56.000Z</published>
     <updated>2022-04-22T13:23:50.713Z</updated>
     
@@ -409,21 +409,21 @@ key</summary>
     
     
     
-    <category term="生活随笔" scheme="https://meuicat.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    <category term="生活随笔" scheme="https://blog.meuicat.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="流浪猫" scheme="https://meuicat.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/%E6%B5%81%E6%B5%AA%E7%8C%AB/"/>
+    <category term="流浪猫" scheme="https://blog.meuicat.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/%E6%B5%81%E6%B5%AA%E7%8C%AB/"/>
     
     
-    <category term="橘猫" scheme="https://meuicat.com/tags/%E6%A9%98%E7%8C%AB/"/>
+    <category term="橘猫" scheme="https://blog.meuicat.com/tags/%E6%A9%98%E7%8C%AB/"/>
     
-    <category term="流浪猫" scheme="https://meuicat.com/tags/%E6%B5%81%E6%B5%AA%E7%8C%AB/"/>
+    <category term="流浪猫" scheme="https://blog.meuicat.com/tags/%E6%B5%81%E6%B5%AA%E7%8C%AB/"/>
     
   </entry>
   
   <entry>
     <title>召唤神龙源码</title>
-    <link href="https://meuicat.com/blog/15/"/>
-    <id>https://meuicat.com/blog/15/</id>
+    <link href="https://blog.meuicat.com/blog/15/"/>
+    <id>https://blog.meuicat.com/blog/15/</id>
     <published>2022-01-07T06:21:04.000Z</published>
     <updated>2022-03-19T02:29:32.565Z</updated>
     
@@ -434,17 +434,17 @@ key</summary>
     
     
     
-    <category term="游戏" scheme="https://meuicat.com/categories/%E6%B8%B8%E6%88%8F/"/>
+    <category term="游戏" scheme="https://blog.meuicat.com/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="源码" scheme="https://meuicat.com/tags/%E6%BA%90%E7%A0%81/"/>
+    <category term="源码" scheme="https://blog.meuicat.com/tags/%E6%BA%90%E7%A0%81/"/>
     
   </entry>
   
   <entry>
     <title>中文广播剧 - 合集</title>
-    <link href="https://meuicat.com/blog/14/"/>
-    <id>https://meuicat.com/blog/14/</id>
+    <link href="https://blog.meuicat.com/blog/14/"/>
+    <id>https://blog.meuicat.com/blog/14/</id>
     <published>2022-01-04T08:35:25.000Z</published>
     <updated>2022-07-18T23:13:13.243Z</updated>
     
@@ -455,17 +455,17 @@ key</summary>
     
     
     
-    <category term="广播剧" scheme="https://meuicat.com/categories/%E5%B9%BF%E6%92%AD%E5%89%A7/"/>
+    <category term="广播剧" scheme="https://blog.meuicat.com/categories/%E5%B9%BF%E6%92%AD%E5%89%A7/"/>
     
     
-    <category term="有声说" scheme="https://meuicat.com/tags/%E6%9C%89%E5%A3%B0%E8%AF%B4/"/>
+    <category term="有声说" scheme="https://blog.meuicat.com/tags/%E6%9C%89%E5%A3%B0%E8%AF%B4/"/>
     
   </entry>
   
   <entry>
     <title>初学写个了油猴脚本</title>
-    <link href="https://meuicat.com/blog/13/"/>
-    <id>https://meuicat.com/blog/13/</id>
+    <link href="https://blog.meuicat.com/blog/13/"/>
+    <id>https://blog.meuicat.com/blog/13/</id>
     <published>2022-01-01T14:28:03.000Z</published>
     <updated>2022-03-19T02:28:51.812Z</updated>
     
@@ -476,14 +476,14 @@ key</summary>
     
     
     
-    <category term="脚本" scheme="https://meuicat.com/categories/%E8%84%9A%E6%9C%AC/"/>
+    <category term="脚本" scheme="https://blog.meuicat.com/categories/%E8%84%9A%E6%9C%AC/"/>
     
     
-    <category term="Win10" scheme="https://meuicat.com/tags/Win10/"/>
+    <category term="Win10" scheme="https://blog.meuicat.com/tags/Win10/"/>
     
-    <category term="油猴脚本" scheme="https://meuicat.com/tags/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/"/>
+    <category term="油猴脚本" scheme="https://blog.meuicat.com/tags/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/"/>
     
-    <category term="JSHint" scheme="https://meuicat.com/tags/JSHint/"/>
+    <category term="JSHint" scheme="https://blog.meuicat.com/tags/JSHint/"/>
     
   </entry>
   
